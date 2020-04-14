@@ -1,0 +1,3 @@
+APP inventor:
+Extensión MQTT --> Tomada de:  http://bienonline.magix.net/public/android-AI2-MQTT-en.html
+Extención Notificador --> Tomada de:  https://sourceforge.net/projects/puravidaapps/files/com.puravidaapps.TaifunNotification.aix/download?use_mirror=versaweb
